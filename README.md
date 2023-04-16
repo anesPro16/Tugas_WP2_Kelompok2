@@ -1,2 +1,1 @@
-# Tugas_WP2_19215347
-Tugas Web Programming 2 Yohanes Eka Putra
+Tugas Web Programming 2. Kelompok 2 Sistem Informasi
